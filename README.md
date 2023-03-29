@@ -1,5 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nnamdi Daniel Aghanya
 ======================================================================================================================================
+![Capture (2)](https://user-images.githubusercontent.com/58938156/228657201-7f1e660a-57f0-4c2d-961b-1cd3515f6cbf.PNG)
 
 Artificial and Deep learning Student (Interested in neuromorphic computing and quantitative programming)
 --------------------------------------------------------------------------------------------------------
