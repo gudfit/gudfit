@@ -10,6 +10,7 @@ I am a talented and experienced Computer Hardware and Software Engineer with a s
 * 🌍  I'm based in London
 * ✉️  You can contact me at [daniel2468114@gmail.com](mailto:daniel2468114@gmail.com)
 * 🧠  I'm learning Neuromorphic Computing and Deep learning
+* ⚡  I really like rabbits and cats 😊.
 
 ### Skills
 
