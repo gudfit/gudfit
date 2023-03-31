@@ -14,11 +14,11 @@ Computer Hardware and Software Engineering Student
 * ⚡  I really like rabbits and cats 😊
 * (,,>﹏<,,) Ignore the name i made it when i was 15
 
-### <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Resume
+### Resume <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
 
 [![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://drive.google.com/file/d/142BMwPiDHvaKaYt7_tyVHG1ETNgwzZgv/view?usp=share_link)
 
-### Skills
+### Skills 👨🏻‍💻
 
 
 <p align="left">
