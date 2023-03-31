@@ -7,7 +7,7 @@ Computer Hardware and Software Engineering Student
 
 
 
-* 🌍  I'm based in London
+* 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [daniel2468114@gmail.com](mailto:daniel2468114@gmail.com)
 * 🧠  I'm learning Neuromorphic Computing and Deep learning
 * 🤖  Very Interested in Neuromorphic Computing, Reverse Engineering and Quantitative programming
