@@ -1,17 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nnamdi Daniel Aghanya
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
 ![Capture (2)](https://user-images.githubusercontent.com/58938156/228657201-7f1e660a-57f0-4c2d-961b-1cd3515f6cbf.PNG)
 
 Artificial and Deep learning Student (Interested in neuromorphic computing and quantitative programming)
 --------------------------------------------------------------------------------------------------------
-
-I am a talented and experienced Computer Hardware and Software Engineer with a strong background in machine learning and artificial intelligence. Having earned a a MicroMasters Program in Statistics and Data Science from MITx and currently earning BEng from Coventry University, I possess the education and skills to excel in various software engineering roles. I have demonstrated my expertise in AI and game development through personal projects, such as the NEAT AI Car Game, a procedurally generated maze solver. This project showcases my ability to apply machine learning algorithms to practical applications, using genetic algorithms and object-oriented programming principles. I am also working on a Chess Engine and AI project, combining advanced programming concepts and AI techniques to create a sophisticated and engaging application. The project highlights my proficiency in Python, machine learning, and optimization techniques. With over two years of experience, I have gained professional exposure as a Machine Learning Junior Project Manager at RD Land, where I transitioned from a Machine Learning/Full Stack Intern to a Machine Learning Engineer/Junior Project Manager. In this role, I developed a self-learning Utility Discord chatbot, created new features using Machine Learning, Three.js, A-frame, and JavaScript, and led a team to meet deadlines and produce optimized, high-quality environments and user interfaces for head-mounted displays (VR) and PC. I have also collaborated with cross-functional teams to implement end-to-end solutions and been part of the machine learning team responsible for creating and researching portable and marketable artificial intelligent partners and friends. With more than two years of experience, I am proficient in software development using C/C++, Java, Assembly x64, and Ruby. I have also gained expertise in data analysis using Python and R. My experience with object-oriented programming, design patterns, and APIs adds
-
+<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 * 🌍  I'm based in London
 * ✉️  You can contact me at [daniel2468114@gmail.com](mailto:daniel2468114@gmail.com)
 * 🧠  I'm learning Neuromorphic Computing and Deep learning
 * ⚡  I really like rabbits and cats 😊.
-
+[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://drive.google.com/file/d/142BMwPiDHvaKaYt7_tyVHG1ETNgwzZgv/view?usp=share_link)
 ### Skills
 
 
