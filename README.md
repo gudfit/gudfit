@@ -2,17 +2,21 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 ======================================================================================================================================
 ![Capture (2)](https://user-images.githubusercontent.com/58938156/228657201-7f1e660a-57f0-4c2d-961b-1cd3515f6cbf.PNG)
 
-Artificial and Deep learning Student (Interested in neuromorphic computing and quantitative programming)
+Computer Hardware and Software Engineering Student 
 --------------------------------------------------------------------------------------------------------
-<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+
+
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [daniel2468114@gmail.com](mailto:daniel2468114@gmail.com)
 * 🧠  I'm learning Neuromorphic Computing and Deep learning
+* 🤖  Very Interested in neuromorphic computing and quantitative programming. 
 * ⚡  I really like rabbits and cats 😊.
 
+### <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Resume
 
 [![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://drive.google.com/file/d/142BMwPiDHvaKaYt7_tyVHG1ETNgwzZgv/view?usp=share_link)
+
 ### Skills
 
 
@@ -31,7 +35,6 @@ Artificial and Deep learning Student (Interested in neuromorphic computing and q
 
 <p align="left"> <a href="https://www.github.com/emocreator" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nnamdi-aghanya-676461212/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
 
 <b>My GitHub Stats</b>
 
