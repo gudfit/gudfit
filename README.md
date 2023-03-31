@@ -5,10 +5,13 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 Artificial and Deep learning Student (Interested in neuromorphic computing and quantitative programming)
 --------------------------------------------------------------------------------------------------------
 <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+
 * 🌍  I'm based in London
 * ✉️  You can contact me at [daniel2468114@gmail.com](mailto:daniel2468114@gmail.com)
 * 🧠  I'm learning Neuromorphic Computing and Deep learning
 * ⚡  I really like rabbits and cats 😊.
+
+
 [![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://drive.google.com/file/d/142BMwPiDHvaKaYt7_tyVHG1ETNgwzZgv/view?usp=share_link)
 ### Skills
 
