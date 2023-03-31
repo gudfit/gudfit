@@ -10,8 +10,9 @@ Computer Hardware and Software Engineering Student
 * 🌍  I'm based in London
 * ✉️  You can contact me at [daniel2468114@gmail.com](mailto:daniel2468114@gmail.com)
 * 🧠  I'm learning Neuromorphic Computing and Deep learning
-* 🤖  Very Interested in neuromorphic computing and quantitative programming. 
-* ⚡  I really like rabbits and cats 😊.
+* 🤖  Very Interested in neuromorphic computing and quantitative programming
+* ⚡  I really like rabbits and cats 😊
+* (,,>﹏<,,) Ignore the name i made it when i was 15
 
 ### <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Resume
 
@@ -38,7 +39,7 @@ Computer Hardware and Software Engineering Student
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/emocreator"><img src="https://github-readme-stats.vercel.app/api?username=emocreator&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=3382ed&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="emocreator's GitHub stats" /></a>
+<a href="http://www.github.com/emocreator"><img src="https://github-readme-stats.vercel.app/api?username=emocreator&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=3382ed&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rabbits's GitHub stats" /></a>
 
 <a href="http://www.github.com/emocreator"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=emocreator&bg_color=1c1917&color=3382ed&line=ef4444&point=3382ed&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
