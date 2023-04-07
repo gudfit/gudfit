@@ -11,7 +11,7 @@ Computer Hardware and Software Engineering Student
 * 🧠  I'm learning Neuromorphic Computing and Deep learning
 * 🤖  Very Interested in Neuromorphic Computing, Reverse Engineering and Quantitative programming
 * ⚡  I really like rabbits and cats 😊
-* (,,>﹏<,,) Ignore the name i made it when i was 15
+* (,,>﹏<,,) Ignore the name i made it when i was 17
 
 ### Resume <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
 
