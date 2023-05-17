@@ -5,10 +5,10 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 Computer Hardware and Software Engineering Student 
 --------------------------------------------------------------------------------------------------------
 
-
-
+* 🎓  Electrical Engineer and Computer Science Engineer
+* 🔧  Future Mechanical  and Deep learning Engineer
 * 🌍  I'm based in United Kingdom
-* 🧠  I'm learning Neuromorphic Computing and Deep learning
+* 🧠  I'm learning Neuromorphic Computing
 * 🤖  Very Interested in Neuromorphic Computing, Reverse Engineering and Quantitative programming
 * ⚡  I really like rabbits and cats 😊
 * (,,>﹏<,,) Ignore the name i made it when i was 17
