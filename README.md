@@ -34,12 +34,3 @@ Computer Hardware and Software Engineering Student
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/emocreator" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nnamdi-aghanya-daniel/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/emocreator"><img src="https://github-readme-stats.vercel.app/api?username=emocreator&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=3382ed&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rabbits's GitHub stats" /></a>
-
-<a href="http://www.github.com/emocreator"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=emocreator&bg_color=1c1917&color=3382ed&line=ef4444&point=3382ed&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/emocreator" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emocreator&langs_count=10&title_color=22c55e&text_color=3382ed&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
