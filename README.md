@@ -1,5 +1,4 @@
-
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hello  <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
 ======================================================================================================================================
 
 ![ezgif-3-e2569e99b0](https://github.com/emocreator/emocreator/assets/58938156/5fa9be0f-185f-487a-a09b-f2183fc31fe9)
@@ -16,7 +15,7 @@ Computer Hardware and Software Engineering Student
 * ⚡  I really like rabbits and cats 😊
 * (,,>﹏<,,) Ignore the name i made it when i was 17
 
-### Resume <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
+### Resume
 
 [![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://drive.google.com/file/d/142BMwPiDHvaKaYt7_tyVHG1ETNgwzZgv/view?usp=share_link)
 
