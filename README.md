@@ -4,16 +4,16 @@ Hello  <img height="40" src="https://raw.githubusercontent.com/innng/innng/maste
 ![ezgif-3-e2569e99b0](https://github.com/emocreator/emocreator/assets/58938156/5fa9be0f-185f-487a-a09b-f2183fc31fe9)
 
 
-Computer Hardware and Software Engineering Student 
+Computer Hardware and Software Engineering Student (Computer Engineering and Computer Science)
 --------------------------------------------------------------------------------------------------------
 
-* 🎓  Currently Studying Computer Hardware And Software Engineering (Computer Engineering and Computer Science)
-* 🔧  Future Quant Analyst, Investment Banker or Robotics/Machine Learning Engineer
-* 🌍  I'm currently based in United Kingdom
-* 🧠  I'm currently learning Computer Architecure, FPGA's, Machine Learning and App development
-* 🤖  Very Interested in Reverse Engineering and Quantitative/Computation Finance
+* 🎓  Currently in my last year of university.
+* 🔧  Future Quant Analyst, Investment Banker or Robotics/Machine Learning Engineer.
+* 🌍  I'm currently based in United Kingdom.
+* 🧠  I'm currently learning Computer Architecure, FPGA's, Machine Learning and App development.
+* 🤖  Very Interested in Reverse Engineering and Quantitative/Computation Finance.
 * ⚡  I really like Rabbits and Cats 😊
-* (,,>﹏<,,) Ignore the name i made it when i was 17
+* (,,>﹏<,,) Ignore the name i made it when i was 17.
 
 ### Resume
 
