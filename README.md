@@ -8,11 +8,11 @@ Computer Hardware and Software Engineering Student
 --------------------------------------------------------------------------------------------------------
 
 * 🎓  Electrical Engineer and Computer Science Engineer
-* 🔧  Future Mechanical  and Deep learning Engineer
+* 🔧  Future Quant, Investment Banker or Robotics/Machine Learning Engineer
 * 🌍  I'm based in United Kingdom
-* 🧠  I'm learning Neuromorphic Computing
-* 🤖  Very Interested in Neuromorphic Computing, Reverse Engineering and Quantitative programming
-* ⚡  I really like rabbits and cats 😊
+* 🧠  I'm currently learning Computer Architecure, FPGA's, Machine Learning and App development
+* 🤖  Very Interested in Reverse Engineering and Quantitative/Computation finance
+* ⚡  I really like Rabbits and Cats 😊
 * (,,>﹏<,,) Ignore the name i made it when i was 17
 
 ### Resume
