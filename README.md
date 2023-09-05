@@ -7,11 +7,11 @@ Hello  <img height="40" src="https://raw.githubusercontent.com/innng/innng/maste
 Computer Hardware and Software Engineering Student 
 --------------------------------------------------------------------------------------------------------
 
-* 🎓  Electrical Engineer and Computer Science Engineer
-* 🔧  Future Quant, Investment Banker or Robotics/Machine Learning Engineer
-* 🌍  I'm based in United Kingdom
+* 🎓  Currently Studying Computer Hardware And Software Engineering (Computer Engineering and Computer Science)
+* 🔧  Future Quant Analyst, Investment Banker or Robotics/Machine Learning Engineer
+* 🌍  I'm currently based in United Kingdom
 * 🧠  I'm currently learning Computer Architecure, FPGA's, Machine Learning and App development
-* 🤖  Very Interested in Reverse Engineering and Quantitative/Computation finance
+* 🤖  Very Interested in Reverse Engineering and Quantitative/Computation Finance
 * ⚡  I really like Rabbits and Cats 😊
 * (,,>﹏<,,) Ignore the name i made it when i was 17
 
