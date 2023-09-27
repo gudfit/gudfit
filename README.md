@@ -8,7 +8,7 @@ Computer Hardware and Software Engineering Student (Computer Engineering and Com
 --------------------------------------------------------------------------------------------------------
 
 * 🎓  Currently in my last year of university.
-* 🔧  Future Quant Analyst, Private Equity Analyst, Investment Banker or Software/Embedded Software Engineer.
+* 🔧  Future Analyst, Engineer or Both.
 * 🌍  I'm currently based in United Kingdom.
 * 🧠  I'm currently learning Computer Architecure, FPGA's, Machine Learning and App development.
 * 🤖  Very Interested in Reverse Engineering and Quantitative/Computation Finance.
