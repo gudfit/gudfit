@@ -13,6 +13,7 @@ Computer Hardware and Software Engineering Student (Computer Engineering and Com
 * 🧠  I'm currently learning Computer Architecure, FPGA's, Machine Learning and App development.
 * 🤖  Very Interested in Reverse Engineering and Quantitative/Computation Finance.
 * ⚡  I really like Rabbits and Cats 😊
+* 💊  Awaiting ADHD Diagnosis.
 * (,,>﹏<,,) Ignore the name i made it when i was 17.
 
 ### Resume
