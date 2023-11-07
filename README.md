@@ -18,7 +18,7 @@ Computer Hardware and Software Engineering Student (Computer Engineering and Com
 
 ### Resume
 
-[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://drive.google.com/file/d/1V-QPAbR1zgfKJmn6QGuZ7nU19fUD65nP/view?usp=sharing) 
+[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://drive.google.com/file/d/1UlA-yDEI_nSJ0hZq7NIB4J0W317WMyzu/view?usp=sharing) 
 
 Last Update Date: 27 Sept 2023
 
