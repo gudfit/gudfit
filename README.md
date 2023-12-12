@@ -11,7 +11,7 @@ Computer Hardware and Software Engineering Student (Computer Engineering and Com
 * 🔧  Future Analyst, Engineer or Both.
 * 🌍  I'm currently based in United Kingdom.
 * 🧠  I'm currently learning Computer Architecure, FPGA's, Machine Learning and App development.
-* 🤖  Interested in Reverse Engineering and Quantitative/Computation Finance.
+* 🤖  Interested in Applied Mathematics(Undergrad+Phd), Reverse Engineering(Hobby) and Quantitative/Computation Finance(MSc+Phd).
 * ⚡  I really like Rabbits and Cats 😊
 * 💊  I am Awaiting my ADHD Diagnosis.
 * (,,>﹏<,,) Ignore the name i made it when i was 17.
