@@ -8,7 +8,7 @@ Computer Hardware and Software Engineering Student (Computer Engineering and Com
 --------------------------------------------------------------------------------------------------------
 
 * 🎓  Currently in my last year of university.
-* 🔧  Future Analyst, Engineer or Both.
+* 🔧  Future Analyst, Engineer, Mathematician or Both.
 * 🌍  I'm currently based in United Kingdom.
 * 🧠  I'm currently learning Computer Architecure, FPGA's, Machine Learning and App development.
 * 🤖  Interested in Applied Mathematics(Undergrad+Phd), Reverse Engineering(Hobby) and Quantitative/Computation Finance(MSc+Phd).
