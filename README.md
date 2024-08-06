@@ -4,7 +4,7 @@ Welcome To My Github  <img height="40" src="https://raw.githubusercontent.com/in
 ![ezgif-3-e2569e99b0](https://github.com/emocreator/emocreator/assets/58938156/5fa9be0f-185f-487a-a09b-f2183fc31fe9)
 
 
-
+MSc in Computational and Software Techniques in Engineering
 --------------------------------------------------------------------------------------------------------
 
 * 🎓  Finished University with a First Class (Computer Hardware and Software Engineering Student (Computer Engineering and Computer Science)).
