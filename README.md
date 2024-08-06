@@ -7,12 +7,12 @@ Welcome To My Github  <img height="40" src="https://raw.githubusercontent.com/in
 MSc in Computational and Software Techniques in Engineering
 --------------------------------------------------------------------------------------------------------
 
-* 🎓  Finished University with a First Class (Computer Hardware and Software Engineering Student (Computer Engineering and Computer Science)).
+* 🎓  Finished Undergrad with First Class in Computer Hardware and Software Engineering Student (Electrical Engineering and Computer Science).
 * 🎉  Masters Incoming.
-* 🔧  Future Analyst, Engineer, Mathematician or Both.
+* 🔧  Future Quant Researcher.
 * 🌍  I'm currently based in United Kingdom.
 * 🧠  I'm currently learning Computer Architecure, FPGA's, Programming Language Theory and Quant Finance Research.
-* 🤖  Interested in Applied Mathematics(Undergrad+Phd), Reverse Engineering(Hobby) and Quantitative/Computation Finance(MSc+Phd).
+* 🔧  Interested in Applied Mathematics(Undergrad+Phd), Reverse Engineering(Hobby) and Quantitative/Computation Finance(MSc+Phd).
 * ⚡  I really like Rabbits and Cats 😊
 * 💊  ADHD Programmer.
 
