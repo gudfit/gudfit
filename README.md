@@ -4,17 +4,17 @@ Welcome To My Github  <img height="40" src="https://raw.githubusercontent.com/in
 ![ezgif-3-e2569e99b0](https://github.com/emocreator/emocreator/assets/58938156/5fa9be0f-185f-487a-a09b-f2183fc31fe9)
 
 
-MSc in Computational and Software Techniques in Engineering
+About Me:
 --------------------------------------------------------------------------------------------------------
 
-* 🎓  Finished Undergrad with First Class in Computer Hardware and Software Engineering Student (Electrical Engineering and Computer Science).
-* 🎉  Masters Incoming.
-* 🔧  Future Quant Researcher.
-* 🌍  I'm currently based in United Kingdom.
-* 🧠  I'm currently learning Computer Architecure, FPGA's, Programming Language Theory and Quant Finance Research.
-* 🔧  Interested in Applied Mathematics(Undergrad+Phd), Reverse Engineering(Hobby) and Quantitative/Computation Finance(MSc+Phd).
-* ⚡  I really like Rabbits and Cats 😊
-* 💊  ADHD Programmer.
+* 🎓  Graduated with First Class Honors in Computer Hardware and Software Engineering (Electrical Engineering and Computer Science).
+* 🎉  Incoming Master's student in Computational and Software Techniques in Engineering.
+* 🔧  Aspiring Quantitative Researcher.
+* 🌍  Currently based in the United Kingdom.
+* 🧠  Currently learning Computer Architecture, FPGA, Programming Language Theory, and Quantitative Finance Research.
+* 🔧  Interested in Electrical Engineering and Computer Science (PhD),  and Operations research & Financial Engineering (PhD).
+* ⚡  I have a fondness for rabbits and cats. 😊
+* 💊  Programmer with ADHD.
 
 ### Resume
 (Ask me) 
