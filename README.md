@@ -13,7 +13,7 @@ About Me:
 * 🌍  Currently based in the United Kingdom.
 * 🧠  Currently learning Computer Architecture, FPGA, Programming Language Theory, and Quantitative Finance Research.
 * 🔧  Interested in Electrical Engineering and Computer Science (PhD),  and Operations research & Financial Engineering (PhD).
-* ⚡  I have a fondness for rabbits and cats. 😊
+* ⚡  Passionate about rabbits, cats, art, animation, League of Legends, piano, and books.
 * 💊  Programmer with ADHD.
 
 ### Resume
