@@ -16,10 +16,6 @@ About Me
 * ⚡  Passionate about rabbits, cats, art, animation, League of Legends, piano, and books.
 * 💊  Programmer with ADHD.
 
-### Resume
-(Ask me) 
-
-
 ![Capture (2)](https://user-images.githubusercontent.com/58938156/228657201-7f1e660a-57f0-4c2d-961b-1cd3515f6cbf.PNG)
 ======================================================================================================================================
 
