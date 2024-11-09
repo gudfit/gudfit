@@ -22,6 +22,3 @@ About Me
 </p>
 
 ![Capture (2)](https://user-images.githubusercontent.com/58938156/228657201-7f1e660a-57f0-4c2d-961b-1cd3515f6cbf.PNG)
-### Socials
---------------------------------------------------------------------------------------------------------
-<p align="left"> <a href="https://www.github.com/emocreator" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nnamdi-aghanya-daniel/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
