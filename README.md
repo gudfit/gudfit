@@ -3,9 +3,9 @@
 About Me:
 
 * 🔧  Aspiring Quantitative Researcher
-* 🔧  Interested in Electrical Engineering and Computer Science,  and Operations research & Financial Engineering.
-* ⚡  Passionate about Math, Compilers. Rabbits, Cats, Art, Animation, League of Legends, Music, and Books.
-* 💊  Programmer with ADHD.
+* 🔧  Interested in Electrical Engineering and Computer Science,  and Operations research & Financial Engineering
+* ⚡  Passionate about Math, Compilers. Rabbits, Cats, Art, Animation, League of Legends, Music, and Books
+* 💊  Mathematician and Programmer with ASD/ADHD
 
 Languages:
 
