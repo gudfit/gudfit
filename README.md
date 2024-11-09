@@ -1,6 +1,6 @@
 [![Click to visit my blog](https://user-images.githubusercontent.com/58938156/228657201-7f1e660a-57f0-4c2d-961b-1cd3515f6cbf.PNG)](https://blog-dy88.onrender.com/)
 
-About Me 
+About Me:
 
 * 🔧  Aspiring Quantitative Researcher
 * 🌍  Currently based in the United Kingdom.
@@ -8,7 +8,7 @@ About Me
 * ⚡  Passionate about Math, Compilers. Rabbits, Cats, Art, Animation, League of Legends, Music, and Books.
 * 💊  Programmer with ADHD.
 
-Languages
+Languages:
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
