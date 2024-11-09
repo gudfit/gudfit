@@ -1,6 +1,6 @@
 Welcome <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
 ======================================================================================================================================
-![Capture (2)](https://user-images.githubusercontent.com/58938156/228657201-7f1e660a-57f0-4c2d-961b-1cd3515f6cbf.PNG)
+[![Click to visit my blog](https://user-images.githubusercontent.com/58938156/228657201-7f1e660a-57f0-4c2d-961b-1cd3515f6cbf.PNG)](https://blog-dy88.onrender.com/)
 
 About Me
 * 🔧  Aspiring Quantitative Researcher
