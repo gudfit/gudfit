@@ -2,10 +2,11 @@
 
 About Me:
 
-* 🔧  Aspiring Quantitative Researcher
-* 🔧  Interested in Electrical Engineering and Computer Science,  and Operations research & Financial Engineering
-* ⚡  Passionate about Math, Physics, ML, CS, Compilers. Rabbits, Cats, Art, Animation, League of Legends, Music, and Books
-* 💊  Mathematician and Programmer with ASD/ADHD
+* 🔧 Aspiring Quantitative Researcher
+* 🛠️ Engineering & Computer Science enthusiast (EE, CS, OR, FinEng)
+* 💡 Passionate about: Math, Physics, ML, Compilers
+* 🎨 Hobbies: Gaming (LoL), Art, Animation, Music
+* 🐰 Animal lover (Cats & Rabbits)
 
 Languages:
 
