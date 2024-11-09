@@ -4,12 +4,10 @@ Welcome To My Github  <img height="40" src="https://raw.githubusercontent.com/in
 
 About Me
 --------------------------------------------------------------------------------------------------------
-* 🎓  Graduated with First Class Honors in Computer Hardware and Software Engineering (Electrical Engineering and Computer Science).
-* 🔧  Aspiring Quantitative Researcher or Quantitative Developer (HFT Firms or Hedge Funds).
+* 🔧  Aspiring Quantitative Researcher
 * 🌍  Currently based in the United Kingdom.
-* 🧠  Currently learning Computer Architecture, FPGA, Programming Language Theory, and Quantitative Finance Research.
-* 🔧  Interested in Electrical Engineering and Computer Science (PhD @ MIT),  and Operations research & Financial Engineering (PhD @ Princeton).
-* ⚡  Passionate about rabbits, cats, art, animation, League of Legends, piano, and books.
+* 🔧  Interested in Electrical Engineering and Computer Science,  and Operations research & Financial Engineering.
+* ⚡  Passionate about Math, Compilers. Rabbits, Cats, Art, Animation, League of Legends, Music, and Books.
 * 💊  Programmer with ADHD.
 
 ### My Skills
