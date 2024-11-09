@@ -3,7 +3,6 @@
 About Me:
 
 * 🔧  Aspiring Quantitative Researcher
-* 🌍  Currently based in the United Kingdom.
 * 🔧  Interested in Electrical Engineering and Computer Science,  and Operations research & Financial Engineering.
 * ⚡  Passionate about Math, Compilers. Rabbits, Cats, Art, Animation, League of Legends, Music, and Books.
 * 💊  Programmer with ADHD.
