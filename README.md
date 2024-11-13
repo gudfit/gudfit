@@ -6,7 +6,6 @@ About Me:
 - 🛠️ Engineering & Computer Science enthusiast (EECS, Operations Research, FinEng)
 - 💡 Passionate about: Math, Physics, Algorithm Analysis, ML, Compilers
 - 🎨 Hobbies: Gaming (LoL), Art, Animation (Anime), Music
-- 🐰 Animal lover (Cats & Rabbits)
 
 Languages:
 
@@ -16,3 +15,5 @@ Languages:
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://ziglang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" width="36" height="36" alt="Zig" /></a>
 </p>
+
+[Undergraduate Thesis](https://www.dropbox.com/scl/fi/hx1vzz4oy5yqs6u8gj5l5/Thesis-edited.pdf?rlkey=r25iq8qi78yeha0gvki7iacxp&st=xdmtumq7&dl=0)
