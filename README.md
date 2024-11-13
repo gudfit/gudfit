@@ -5,7 +5,7 @@ About Me:
 * 🔧 Aspiring Quantitative Researcher
 * 🛠️ Engineering & Computer Science enthusiast (EE, CS, OR, FinEng)
 * 💡 Passionate about: Math, Physics, ML, Compilers
-* 🎨 Hobbies: Gaming (LoL), Art, Animation, Music
+* 🎨 Hobbies: Gaming (LoL), Art, Animation (Anime), Music
 * 🐰 Animal lover (Cats & Rabbits)
 
 Languages:
