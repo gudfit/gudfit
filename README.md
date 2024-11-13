@@ -18,4 +18,4 @@ Languages:
 
 Academic Works
 - [Undergraduate Thesis](https://www.dropbox.com/scl/fi/hx1vzz4oy5yqs6u8gj5l5/Stock-Price-Predictive-Analysis-Using-FPGA-implementation-to-Accelerate-Performance-Computing.pdf?rlkey=r25iq8qi78yeha0gvki7iacxp&st=vxo3tfwq&dl=0)
-- Research Proposal (TORPEDO)
+- [Research Proposal (TORPEDO)](https://www.dropbox.com/scl/fi/wamzdo8z8xhvf99cffqzs/ResearchProposalDraft.docx?rlkey=zfp8kf6bs0xgsqvnwn2omgvpd&st=71kyaveh&dl=0)
