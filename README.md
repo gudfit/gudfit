@@ -16,4 +16,6 @@ Languages:
 <a href="https://ziglang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" width="36" height="36" alt="Zig" /></a>
 </p>
 
-[Undergraduate Thesis](https://www.dropbox.com/scl/fi/hx1vzz4oy5yqs6u8gj5l5/Thesis-edited.pdf?rlkey=r25iq8qi78yeha0gvki7iacxp&st=xdmtumq7&dl=0)
+Academic Works
+- [Undergraduate Thesis](https://www.dropbox.com/scl/fi/hx1vzz4oy5yqs6u8gj5l5/Stock-Price-Predictive-Analysis-Using-FPGA-implementation-to-Accelerate-Performance-Computing.pdf?rlkey=r25iq8qi78yeha0gvki7iacxp&st=vxo3tfwq&dl=0)
+- Research Proposal (TORPEDO)
