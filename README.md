@@ -3,9 +3,8 @@
 About Me:
 
 - 🔧 Aspiring Quantitative Researcher
-- 🛠️ Engineering & Computer Science enthusiast (EECS, Operations Research, FinEng)
 - 💡 Passionate about: Math, Physics, Algorithm Analysis, ML, Compilers
-- 🎨 Hobbies: Gaming (LoL), Art, Animation (Anime), Music
+
 
 Languages:
 
@@ -19,5 +18,4 @@ Languages:
 
 Academic Works:
 
-- [Undergraduate Thesis](https://www.dropbox.com/scl/fi/hx1vzz4oy5yqs6u8gj5l5/Stock-Price-Predictive-Analysis-Using-FPGA-implementation-to-Accelerate-Performance-Computing.pdf?rlkey=r25iq8qi78yeha0gvki7iacxp&st=vxo3tfwq&dl=0) | [Code](https://github.com/emocreator/stock-price-thesis)
-- [Research Proposal (TORPEDO)](https://www.dropbox.com/scl/fi/wamzdo8z8xhvf99cffqzs/ResearchProposalDraft.docx?rlkey=zfp8kf6bs0xgsqvnwn2omgvpd&st=71kyaveh&dl=0)
+- [Undergraduate Thesis](https://www.dropbox.com/scl/fi/hx1vzz4oy5yqs6u8gj5l5/Stock-Price-Predictive-Analysis-Using-FPGA-implementation-to-Accelerate-Performance-Computing.pdf?rlkey=r25iq8qi78yeha0gvki7iacxp&st=vxo3tfwq&dl=0) | [Code](https://github.com/emocreator/stock-price-thesis) | [Grad Research Proposal (TORPEDO)](https://www.dropbox.com/scl/fi/wamzdo8z8xhvf99cffqzs/ResearchProposalDraft.docx?rlkey=zfp8kf6bs0xgsqvnwn2omgvpd&st=71kyaveh&dl=0)
