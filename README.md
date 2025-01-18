@@ -1,4 +1,4 @@
-[![Click to visit my blog](./pics/pejaIXA.jpg)](https://blog-dy88.onrender.com/)
+[![Click to visit my blog](./pics/pejaIXA.jpg)](https://www.gudfit.xyz/)
 
 About Me:
 - 🔧 Aspiring Quantitative Researcher
