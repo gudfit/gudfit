@@ -3,7 +3,7 @@
 About Me:
 
 - 🔧 Aspiring Quantitative Researcher
-- 💡 Passionate about: Math, Physics, Algorithm Analysis, ML, Compilers
+- 💡 Passionate about: Math, Algorithm Analysis, ML, Compilers
 
 
 Languages:
