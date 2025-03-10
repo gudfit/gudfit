@@ -6,7 +6,7 @@ About Me:
 - 💡 Passionate about: Math, Algorithm Analysis, ML, Compilers
 
 
-Languages:
+Languages I Like:
 
 <p align="left">
 <a href="https://ziglang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" width="36" height="36" alt="Zig" /></a>
