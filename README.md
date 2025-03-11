@@ -2,6 +2,7 @@
 
 About Me:
 
+- 🧠 Genius Christian Anime Math and EE/CS enjoyr
 - 🔧 Aspiring Quantitative Researcher
 - 💡 Passionate about: Math, Algorithm Analysis, ML, Compilers
 
