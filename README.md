@@ -1,11 +1,11 @@
-[![Click to visit my blog](./pics/rF6wdgU.jpg)](https://www.gudfit.xyz/)
+[![Click to visit my blog](https://github.com/user-attachments/assets/12092ea1-c60a-4eb2-ad3c-6cba7085c4e9)](https://www.gudfit.xyz/)
 
 ### About Me
 
-* 🧠 Christian, math enjoyer, and unapologetic algebra nerd
-* 📈 Fascinated by optimisation — from bare-metal assembly to fast matrix multiplication
-* 📚 Drawn to the deep structure of **information**: theory, representation, and transformation
-* 🔧 Future quantitative researcher with a love for compilers and the algorithms beneath them
+* 🧠 Me:               Christian, and Unapologetic Algebra Nerd
+* 📈 Optimisation:     Assembly, and Matrix multiplication 
+* 📚 Information nerd: Theory, Representation, and Transformation
+* 🔧 Goals: Quantitative researcher or Gpu Compilers Engineer
 
 ---
 
