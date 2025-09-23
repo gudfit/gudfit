@@ -4,7 +4,7 @@
 
 * 🧠 Me:               Christian, and Unapologetic Algebra Nerd
 * 📈 Optimisation:     Assembly, and Matrix multiplication 
-* 📚 Information nerd: Theory, Representation, and Transformation
+* 📚 Nerd:             Math Physics Cs Art Music
 * 🔧 Goals:            Quantitative researcher or Gpu Compiler Engineer
 
 ---
