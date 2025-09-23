@@ -2,9 +2,8 @@
 
 ### Meeeee :3
 
-* 🧠 Me:               Christian, and Unapologetic Algebra Nerd
-* 📈 Optimisation:     Assembly, and Matrix multiplication 
-* 📚 Nerd:             Math Physics Cs Art Music
+* 🧠 Me:               Christian Genius Math Physics Cs Art Music Nerd
+* 📈 Interest:         Assembly, and Matrix multiplication Optimisation
 * 🔧 Goals:            Quantitative researcher or Gpu Compiler Engineer
 
 ---
