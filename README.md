@@ -1,6 +1,6 @@
 [![Click to visit my blog](https://github.com/user-attachments/assets/12092ea1-c60a-4eb2-ad3c-6cba7085c4e9)](https://www.gudfit.xyz/)
 
-### About Me
+### Meeeee :3
 
 * 🧠 Me:               Christian, and Unapologetic Algebra Nerd
 * 📈 Optimisation:     Assembly, and Matrix multiplication 
@@ -28,5 +28,3 @@
 <a href="https://ocaml.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg" width="36" height="36" alt="OCaml" /></a>
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="36" height="36" alt="Rust" /></a>
 </p>
-
----
